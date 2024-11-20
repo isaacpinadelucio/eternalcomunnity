@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "565446896530",
+    "project_id": "van-gogh-ai-4uwu82",
+    "storage_bucket": "van-gogh-ai-4uwu82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565446896530:android:cc20cf88e640458cd66f4b",
+        "android_client_info": {
+          "package_name": "com.mycompany.glow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHd2Uo_4nSZyp2IMVyyUxmEO26foPmRDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565446896530:android:adb7da9167b60476d66f4b",
+        "android_client_info": {
+          "package_name": "com.mycompany.tendens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHd2Uo_4nSZyp2IMVyyUxmEO26foPmRDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

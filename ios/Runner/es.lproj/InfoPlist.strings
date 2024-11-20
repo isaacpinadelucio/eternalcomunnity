@@ -1,0 +1,2 @@
+NSLocationWhenInUseUsageDescription = "In order to know your location this app require permision to accses to location";
+PermissionGroupNotification = "In order to send notifications this app require permision to send you notifications";
